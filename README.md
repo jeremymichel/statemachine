@@ -8,7 +8,7 @@ A dead simple implementation of a finite state machine in Go.
 
 Go get the module 
 ```shell
-go get -u github.com/jeremmymichel/go-statemachine
+go get -u github.com/jeremmymichel/statemachine
 ```
 The module works by creating a new `StateMachine`, defining states and adding them to the state machine.
 

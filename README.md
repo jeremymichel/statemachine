@@ -1,5 +1,7 @@
 # StateMachine
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/jeremymichel/statemachine.svg)](https://pkg.go.dev/github.com/jeremymichel/statemachine)
+
 A dead simple implementation of a finite state machine in Go.
 
 ## Usage
